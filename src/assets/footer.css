@@ -1,0 +1,32 @@
+footer {
+  padding: 1rem;
+}
+
+.social-media-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-media-links a {
+  margin: 0 1rem;
+}
+
+.terms-and-conditions {
+}
+
+.terms-and-conditions a {
+  color: #fff;
+}
+
+.copyright {
+  border-top-color: black;
+  border-top-width: 12px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.icons {
+  margin-left: 4px;
+  text-decoration: none;
+}
